@@ -1,0 +1,13 @@
+C:\Users\Khoderisasi\source\repos\mantap22\mantap22\mantap22\bin\Debug\netstandard2.0\mantap22.deps.json
+C:\Users\Khoderisasi\source\repos\mantap22\mantap22\mantap22\bin\Debug\netstandard2.0\mantap22.dll
+C:\Users\Khoderisasi\source\repos\mantap22\mantap22\mantap22\bin\Debug\netstandard2.0\mantap22.pdb
+C:\Users\Khoderisasi\source\repos\mantap22\mantap22\mantap22\obj\Debug\netstandard2.0\mantap22.csprojAssemblyReference.cache
+C:\Users\Khoderisasi\source\repos\mantap22\mantap22\mantap22\obj\Debug\netstandard2.0\mantap22.csproj.CoreCompileInputs.cache
+C:\Users\Khoderisasi\source\repos\mantap22\mantap22\mantap22\obj\Debug\netstandard2.0\mantap22.App.xaml.g.cs
+C:\Users\Khoderisasi\source\repos\mantap22\mantap22\mantap22\obj\Debug\netstandard2.0\mantap22.LoginPage.xaml.g.cs
+C:\Users\Khoderisasi\source\repos\mantap22\mantap22\mantap22\obj\Debug\netstandard2.0\mantap22.MainPage.xaml.g.cs
+C:\Users\Khoderisasi\source\repos\mantap22\mantap22\mantap22\obj\Debug\netstandard2.0\mantap22.SignUpPage.xaml.g.cs
+C:\Users\Khoderisasi\source\repos\mantap22\mantap22\mantap22\obj\Debug\netstandard2.0\mantap22.AssemblyInfoInputs.cache
+C:\Users\Khoderisasi\source\repos\mantap22\mantap22\mantap22\obj\Debug\netstandard2.0\mantap22.AssemblyInfo.cs
+C:\Users\Khoderisasi\source\repos\mantap22\mantap22\mantap22\obj\Debug\netstandard2.0\mantap22.dll
+C:\Users\Khoderisasi\source\repos\mantap22\mantap22\mantap22\obj\Debug\netstandard2.0\mantap22.pdb
